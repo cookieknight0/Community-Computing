@@ -1,0 +1,16 @@
+{
+  "name": "nfbdesign.node.1",
+  "version": "1.0.0",
+  "description": "nodev1",
+  "main": "p5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nisu Fletes-Berkowitz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  }
+}
